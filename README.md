@@ -37,4 +37,10 @@ Contributions to SoundWave are welcome! If you'd like to contribute, please foll
 ## Live Demo
 
 You can try out the SoundWave application live on [Vercel](https://sound-wave-lac.vercel.app/).
+To fully experience all features, create your own account and confirm your email.
+
+Or use the provided test account:
+
+- **Login:** test@user.com
+- **Password:** testuser
 
